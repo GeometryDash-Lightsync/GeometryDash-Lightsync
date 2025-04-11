@@ -18,5 +18,5 @@ Our purpose is creating an unique version of Geometry Dash, adding new features 
 ### Instalation
 
 **Important**
-*If you are looking for the __Android installation tutorial__, pleas go to this [section]()*
+*If you are looking for the **Android installation tutorial**, please go to this [section]()*
 
