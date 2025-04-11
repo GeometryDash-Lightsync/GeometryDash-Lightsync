@@ -15,7 +15,14 @@ Our purpose is creating an unique version of Geometry Dash, adding new features 
 * Options for customizing the menu and the player
 * Geode support (Only with a custom [whitelist]())
 
-## Installation
+### Download
 
-*Note: If you are looking for the **Android installation tutorial**, please go to this [section]()*
+* Windows version
 
+## How to Install
+
+<details>
+
+<summary>Windows Installation</summary>
+
+</details>
