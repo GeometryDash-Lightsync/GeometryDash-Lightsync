@@ -13,5 +13,10 @@ Our purpose is creating an unique version of Geometry Dash, adding new features 
 * Custom servers
 * More icons and achievements to the game and different ways for unlocking them (and more coming soon)
 * Options for customizing the menu and the player
-* Geode support (Only with a custom [whitelist]()
+* Geode support (Only with a custom [whitelist]())
+
+### Instalation
+
+**Important**
+*If you are looking for the __Android installation tutorial__, pleas go to this [section]()*
 
